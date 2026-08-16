@@ -17,7 +17,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #2e2f42;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 24px;
 }
 
 .order-button {
@@ -55,7 +55,7 @@ body {
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  line-height: 1.116;
+  line-height: 18px;
 }
 
 .web {
@@ -117,7 +117,7 @@ address {
 
 h1 {
   font-size: 56px;
-  line-height: 1.07;
+  line-height: 60px;
   color: #ffffff;
   height: 120px;
   width: 496px;
@@ -564,7 +564,7 @@ img {
   background-color: transparent;
   color: #ffffff;
   font-size: 12px;
-  line-height: 1.5;
+  line-height: 18px;
   letter-spacing: 0.04em;
 }
 
@@ -592,7 +592,7 @@ img {
   color: #ffffff;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 24px;
   letter-spacing: 4%;
   cursor: pointer;
 }
@@ -636,7 +636,7 @@ img {
     flex-direction: column;
     gap: 0;
     font-size: 12px;
-    line-height: 1.17;
+    line-height: 14px;
   }
 
   .mobile-menu-button {
@@ -668,7 +668,7 @@ img {
     margin-bottom: 8px;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11;
+    line-height: 40px;
   }
 
   .section-2 p {
@@ -816,7 +816,7 @@ img {
     color: #2e2f42;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11;
+    line-height: 40px;
   }
 
   .mobile-menu-nav .current {
@@ -838,14 +838,14 @@ img {
     color: #4d5ae5;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 24px;
   }
 
   .mobile-menu-email {
     color: #434455;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 24px;
   }
 
   .mobile-menu-socials {
@@ -868,7 +868,7 @@ img {
     width: 216px;
     height: auto;
     font-size: 36px;
-    line-height: 1.11;
+    line-height: 40px;
     text-align: center;
   }
 
@@ -882,7 +882,7 @@ img {
     margin-bottom: 8px;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11;
+    line-height: 40px;
     text-align: center;
   }
 
